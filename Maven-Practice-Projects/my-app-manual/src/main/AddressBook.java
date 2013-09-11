@@ -1,3 +1,10 @@
+/*
+ Author :Pravin Mahajan
+ Date:11/09/2013
+ AddressBook:  Part of the solution for the assignment given by Mr. Satyendra in training session.
+                          This class allows to store the details friends like name , age , phone number and birth date
+                          This class creates array of Contact class which stores inforamtion for one friend
+*/
 import java.io.*;
 public class AddressBook {
 
